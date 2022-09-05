@@ -1,4 +1,4 @@
-length_of_circular_linked_list = int(input())
+length__of__circular__linked__list = int(input())
 
 circular_linked_list = list(map(int,input().strip().split(" ")))
 
